@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+.venv/
+venv/
+ENV/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore TF/HF model cache folders
+*.cache/
+.cache/
